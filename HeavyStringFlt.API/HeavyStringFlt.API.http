@@ -1,0 +1,6 @@
+@HeavyStringFlt.API_HostAddress = http://localhost:5238
+
+GET {{HeavyStringFlt.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
